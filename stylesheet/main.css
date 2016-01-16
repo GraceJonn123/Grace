@@ -92,7 +92,11 @@ nav a
     background-color: palevioletred
 }
 
-
+header
+{
+ height: 30%;
+    background-color: lavenderblush
+}
 
 /*
 ==========================================
