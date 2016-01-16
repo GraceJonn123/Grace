@@ -89,13 +89,13 @@ nav a
     padding: 15px;
     border: 3px black solid;
     color: black;
-    background-color: palevioletred
+    background-color: lavenderblush
 }
 
 header
 {
- height: 50%;
-    background-color: lavenderblush
+ height: auto;
+    background-color: palevioletred
 }
 
 /*
