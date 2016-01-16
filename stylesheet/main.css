@@ -103,10 +103,13 @@ header
 
 @keyframes Grace{
     from{
-        background-color: blue
+        background-color: 0%="green";
+        25%="yellow";
+        50%="pink";
     }
     to{
-       background-color: crimson
+       background-color: 75%="purple";
+        100%="black";
     }
 }
 
