@@ -94,7 +94,9 @@ nav a
 
 header
 {
-    animation-direction: alternate-reverse
+    animation-direction: alternate-reverse;
+    animation-name: Grace;
+    animation-duration: 10s;
  height: auto;
     background-color: palevioletred
 }
