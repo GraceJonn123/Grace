@@ -96,23 +96,19 @@ header
 {
     animation-direction: alternate-reverse;
     animation-name: Grace;
-    animation-duration: 10s;
+    animation-duration: 4s;
  height: auto;
     background-color: palevioletred
 }
 
 @keyframes Grace{
     from{
-        background-color: 0%="green";
-        25%="yellow";
-        50%="pink";
+        background-color: purple;
     }
     to{
-       background-color: 75%="purple";
-        100%="black";
+       background-color: crimson;
     }
 }
-
 /*
 ==========================================
 
