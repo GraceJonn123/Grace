@@ -79,6 +79,8 @@ nav a
 {
     display: inline-block;
     text-decoration: none;
+    font-size: 35%;
+    float: center;
 
 }
 
