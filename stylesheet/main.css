@@ -79,6 +79,7 @@ nav
     margin: auto;
     width: 50%;
     padding-top: 15px;
+    padding-bottom: 15px;
 }
 nav a
 {
@@ -94,21 +95,37 @@ nav a
 
 header
 {
-    animation-direction: reverse;
+    animation-direction:alternate-reverse;
     animation-name: Grace;
     animation-duration: 4s loop;
- height: auto;
-    background-color: palevioletred
+  background-color: palevioletred;
+    height: 70%;
 }
 
 @keyframes Grace{
     from{
-        background-color: purple;
+        background-color: blue;
     }
     to{
-       background-color: crimson;
+       background-color: purple;
     }
 }
+body{
+    background-image:url(...pictures/images1.jpeg");
+     background-color: palevioletred;
+    vertical-align: baseline;
+    width: 100%;
+}
+#marsh{
+    padding-right: 70%;
+    float: right;
+    width: 50px;
+}
+#lili{
+    padding-left: 70%;
+    float: top;
+    width: 50px auto;
+    }
 /*
 ==========================================
 
