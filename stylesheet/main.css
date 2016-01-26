@@ -62,6 +62,6 @@ ul.pagination li {display: inline;}
 ul.pagination li a {
     color: black;
     float: left;
-    padding: 8px 16px;
+    padding: 20px 30px;
     text-decoration: none;
 }
