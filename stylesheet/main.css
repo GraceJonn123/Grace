@@ -47,7 +47,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-.content {
+body{
     background-image:url(pictures/nice%20lonely.jpg);
-    background-size: contain;
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: top
 }
