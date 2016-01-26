@@ -65,3 +65,6 @@ ul.pagination li a {
     padding: 20px 30px;
     text-decoration: none;
 }
+.pagination{
+    color: #cc49a5;
+}
