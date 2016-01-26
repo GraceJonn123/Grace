@@ -68,3 +68,6 @@ ul.pagination li a {
 .pagination{
     color: #cc49a5;
 }
+body{
+    padding-top: 25%;
+}
