@@ -70,4 +70,6 @@ ul.pagination li a {
 }
 body{
     padding-top: 25%;
+    text-align: left;
+    padding-left: 40%;
 }
