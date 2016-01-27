@@ -191,22 +191,3 @@ body
     @include transform(translateY(-15px));
   }
 }
-.arrow bounce{
-  position: fixed;
-  bottom: 0;
-  left: 10%;
-  margin-left:-20px;
-  width: 5px;
-  height: 20px;
-  background-size: cover;
-  @include animation(bounce 2s infinite);
-     width: 10px;
-    height: 10px;
-}
-.arrow{
-    width: 10px;
-    height: 10px;
-}
-.arro{
-  image-orientation: 10px 10px;
-}
