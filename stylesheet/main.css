@@ -191,3 +191,8 @@ body
     @include transform(translateY(-15px));
   }
 }
+@keyframes slideshow{
+    0%{background-image: url(pictures/images1.jpeg)}
+    50%{background-image: url(pictures/524398__lonely-red-tree_p.jpg)}
+    100%{background-image: url(pictures/bea.jpg)}
+}
