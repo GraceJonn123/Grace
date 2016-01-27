@@ -248,11 +248,11 @@ body
     50%{background-image: url(pictures/ora.jpg)}
     100%{background-image: url(pictures/orange1.jpg)}
 }
-.element4-animation{
+{
     padding-top: 65%;
     text-align: center;
 }
-.element4-animation{
+{
   animation: animationFrames linear 0.7s;
   animation-iteration-count: 1;
   transform-origin: 50% 50%;
