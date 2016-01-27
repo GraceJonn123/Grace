@@ -47,6 +47,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+.wording{
+    padding-top: 15%;
+}
 body2{
   background-repeat: no-repeat;
     background-size: cover;
