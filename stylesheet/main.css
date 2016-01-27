@@ -47,7 +47,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-body{
+body2{
   background-repeat: no-repeat;
     background-size: cover;
 }
@@ -68,7 +68,7 @@ body
 }
 .element-animation{
   animation: animationFrames ease 3s;
-  animation-iteration-count: 1;
+  animation-iteration-count: 5;
   transform-origin: 50% 50%;
   animation-fill-mode:forwards; /*when the spec is finished*/
   -webkit-animation: animationFrames ease 3s;
@@ -192,7 +192,7 @@ body
   }
 }
 @keyframes slideshow{
-    0%{background-image: url(pictures/images1.jpeg)}
-    50%{background-image: url(pictures/524398__lonely-red-tree_p.jpg)}
-    100%{background-image: url(pictures/bea.jpg)}
+    0%{background-image: url(pictures/creep.jpg)}
+    50%{background-image: url(pictures/dark.jpg)}
+    100%{background-image: url(pictures/ted.jpg)}
 }
