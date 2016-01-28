@@ -236,11 +236,11 @@ body{
     50%{background-image: url(pictures/ora.jpg)}
     100%{background-image: url(pictures/orange1.jpg)}
 }
-.small-9 columns{
+.row awesome{
     padding-top: 65%;
     text-align: right;
 }
-.small-9 columns{
+.row awesome{
   animation: animationFrmes linear 25s;
   animation-iteration-count: 1;
   transform-origin: 50% 50%;
