@@ -237,8 +237,9 @@ body{
     100%{background-image: url(pictures/orange1.jpg)}
 }
 .row awesome{
-    padding-top: 65%;
-    text-align: right;
+    padding-top: 105%;
+    padding-left: 250px;
+    width: 1000px;
 }
 .row awesome{
   animation: animationFrmes linear 25s;
