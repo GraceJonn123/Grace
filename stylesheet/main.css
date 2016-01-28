@@ -60,7 +60,7 @@ body{
 	color: black;
 	background-color:black;
     background-attachment: fixed;
-    width: 650px;
+    width: 1000px;
 }
 .element-animation1{
   animation: animationFrames ease 3s;
