@@ -252,6 +252,12 @@ body{
   -ms-transform-origin: 50% 50%;
 }
 
+@keyframes slideshow{
+        0%{background-image: url(pictures/or.jpg)}
+    50%{background-image: url(pictures/ora.jpg)}
+    100%{background-image: url(pictures/orange1.jpg)}
+}
+
 @keyframes animationFrmes{
   0% {
     opacity:1;
