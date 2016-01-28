@@ -228,11 +228,7 @@ body{
     @include transform(translateY(-15px));
   }
 }
-@keyframes slideshow{
-    0%{background-image: url(pictures/or.jpg)}
-    50%{background-image: url(pictures/ora.jpg)}
-    100%{background-image: url(pictures/orange1.jpg)}
-}
+
 .row awesome{
     padding-top: 105%;
     padding-left: 250px;
