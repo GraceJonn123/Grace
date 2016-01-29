@@ -694,3 +694,6 @@ h1{
 h1, p{
     font-size: 235%;
 }
+aside{
+    font-size: 100%;
+}
