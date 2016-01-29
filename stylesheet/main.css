@@ -58,10 +58,6 @@ body{
     width:inherit;
     text-decoration-color: white;
 }
-p{
-    font-size: 500px;
-    color: darkorange;
-}
 .element-animation{
   animation: animationFrames ease 3s;
   animation-iteration-count: 1;
@@ -375,10 +371,11 @@ p{
   -ms-transform-origin: 50% 50%;
 }
 
-@keyframes slideshow{
-        0%{background-image: url(pictures/or.jpg)}
-    50%{background-image: url(pictures/ora.jpg)}
-    100%{background-image: url(pictures/orange1.jpg)}
+.slideshow{
+    background-image: url(pictures/orange1.jpg);
+    background-attachment: fixed;
+    backface-visibility: hidden;
+
 }
 
 @keyframes animationFrmes{
