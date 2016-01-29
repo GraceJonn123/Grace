@@ -694,14 +694,16 @@ h1{
 h1, p{
     font-size: 235%;
 }
-aside{
+.ool{
     font-size: 100%;
-}
+    padding-top: 70%;
 
-body9{
-    background-image: url(pictures/orange1.jpg);
+}
+body{
+
+ background-image: url(pictures/orange1.jpg);
     backface-visibility: hidden;
     background-attachment: fixed;
     background-position: top;
-    background-size: contain;
+    background-size: cover;
 }
