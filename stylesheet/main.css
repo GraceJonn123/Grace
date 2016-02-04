@@ -699,11 +699,4 @@ h1, p{
     padding-top: 70%;
 
 }
-body{
 
- background-image: url(pictures/orange1.jpg);
-    backface-visibility: hidden;
-    background-attachment: fixed;
-    background-position: top;
-    background-size: cover;
-}
